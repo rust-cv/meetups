@@ -7,4 +7,12 @@
 
 ### Speakers and titles
 
-(To be confirmed)
+Timing details will be determined later
+
+|Title|Person|
+|-------------------|--------------------------------------|
+|Opening remarks    |  Andrew Straw, [Straw Lab](https://strawlab.org) |
+|...   |  ... |
+| (If time available) "Low latency multi-camera 3D animal tracking" |  Andrew Straw, [Straw Lab](https://strawlab.org) |
+| Open discussion | everyone present |
+
