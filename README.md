@@ -1,4 +1,4 @@
-# meetups
+# Rust Computer Vision Meetups
 
 ## 2021-09-29 17:00-19:00 UTC
 
