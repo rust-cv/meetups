@@ -11,9 +11,9 @@ Timing details will be determined later
 
 |Title|Person|
 |-------------------|--------------------------------------|
-|Opening remarks    |  Andrew Straw, [Straw Lab](https://strawlab.org) |
+|Opening remarks    | Andrew Straw [@astraw](https://github.com/astraw) |
 |A potential future for observability in computer vision pipelines| Daniel McKenna [@xd009642](https://github.com/xd009642)|
 |...   |  ... |
-| (If time available) "Low latency multi-camera 3D animal tracking" |  Andrew Straw, [Straw Lab](https://strawlab.org) |
+| (If time available) "Low latency multi-camera 3D animal tracking" | Andrew Straw [@astraw](https://github.com/astraw) |
 | Open discussion | everyone present |
 
