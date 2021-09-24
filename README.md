@@ -1,5 +1,11 @@
 # Rust Computer Vision Meetups
 
+## Recordings of the talks
+
+Each speaker will be given the option of whether they would like their talk recorded and made publicly available on YouTube.
+
+After the talks, the meetup will also have online discussions - these will not be recorded.
+
 ## 2021-09-29 17:00-19:00 UTC
 
 - Meeting venue (online): [Zoom](https://uni-freiburg.zoom.us/j/63954196197?pwd=cXNpTUFRZDVTSFZGYzJuVVRPSjVnZz09)
