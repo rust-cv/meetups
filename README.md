@@ -21,6 +21,6 @@ Timing details will be determined later
 |A potential future for observability in computer vision pipelines| Daniel McKenna [@xd009642](https://github.com/xd009642)|
 | A Brief Introduction to Photogrammetry | Geordon Worley [@vadixidav](https://github.com/vadixidav) |
 | Photometric stereo on the web thanks to Rust and Wasm | Matthieu Pizenberg [@mpizenberg](https://github.com/mpizenberg) |
-| (If time available) "Low latency multi-camera 3D animal tracking" | Andrew Straw [@astraw](https://github.com/astraw) |
+| Processing Terabytes of Hyperspectral Image Data with io_uring | Noah Kennedy [@nkcompute](https://github.com/Noah-Kennedy) |
 | Open discussion | everyone present |
 
