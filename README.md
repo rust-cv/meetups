@@ -6,6 +6,8 @@ Each speaker will be given the option of whether they would like their talk reco
 
 After the talks, the meetup will also have online discussions - these will not be recorded.
 
+Videos will be uploaded to https://www.youtube.com/c/RustVideos .
+
 ## 2021-09-29 17:00-19:00 UTC
 
 - Meeting venue (online): [Zoom](https://uni-freiburg.zoom.us/j/63954196197?pwd=cXNpTUFRZDVTSFZGYzJuVVRPSjVnZz09)
